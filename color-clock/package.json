@@ -1,0 +1,16 @@
+{
+  "name": "color-clock",
+  "version": "1.0.0",
+  "description": "A clock application that changes color every second",
+  "main": "package.json",
+  "scripts": {
+    "test": "echo 'Hello World!'",
+    "start": "react-scripts start"
+  },
+  "author": "Gideon",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^2.29.3",
+    "serve": "^14.1.2"
+  }
+}
